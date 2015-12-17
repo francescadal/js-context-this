@@ -24,4 +24,4 @@ function hello(thing) {
 // this:
 hello.call(sally_ride, "Shuttle!");
 
-// hello.call(astronaut_steve, "ISS!");
+ hello.call(astronaut_steve, "ISS!");
